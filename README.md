@@ -28,4 +28,18 @@
 </ol>
 
 
-< STL Libraries
+# STL Libraries
+
+<ol>
+<li>Pairs</li>
+<li>Vectors</li>
+<li>Priority Queue</li>
+<li>Set and Multiset</li>
+ 
+<li>Map and Multimap</li>
+<li>Unordered_set</li>
+<li>Unordered_map</li>
+<li>Non-Mutating STL Algorithms</li>
+<li>Mutating STL Algorithms</li>
+
+</ol>
