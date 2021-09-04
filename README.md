@@ -16,6 +16,7 @@
 <li>Tree</li>
 <li>Binary Search Tree</li>
 <li>Heap</li>
+ <li>Graph</li>
 <li>Greedy</li>
   
 <li>Backtracking</li>
